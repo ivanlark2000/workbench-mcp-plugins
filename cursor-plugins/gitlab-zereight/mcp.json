@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gitlab_zereight": {
+      "url": "http://127.0.0.1:18100/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:WORKBENCH_MCP_TOKEN}"
+      }
+    }
+  }
+}

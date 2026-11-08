@@ -1,0 +1,16 @@
+{
+  "name": "opensearch",
+  "displayName": "OpenSearch",
+  "version": "1.0.0",
+  "description": "OpenSearch index and query tools",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "opensearch"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/opensearch/logo.svg",
+  "mcpServers": "./mcp.json"
+}

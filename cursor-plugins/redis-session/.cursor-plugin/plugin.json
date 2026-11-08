@@ -1,0 +1,16 @@
+{
+  "name": "redis-session",
+  "displayName": "Redis Session",
+  "version": "1.0.0",
+  "description": "Redis session cache and tool helpers",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "redis"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/redis-session/logo.svg",
+  "mcpServers": "./mcp.json"
+}

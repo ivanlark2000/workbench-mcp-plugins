@@ -1,0 +1,16 @@
+{
+  "name": "confluence",
+  "displayName": "Confluence",
+  "version": "1.0.0",
+  "description": "Compulink Confluence / Wiki MCP",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "confluence"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/confluence/logo.svg",
+  "mcpServers": "./mcp.json"
+}

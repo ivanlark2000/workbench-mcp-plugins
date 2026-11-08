@@ -1,0 +1,16 @@
+{
+  "name": "yandex-mail",
+  "displayName": "Yandex Mail",
+  "version": "1.0.0",
+  "description": "Yandex Mail MCP",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "mail"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/yandex-mail/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "agent_knowledge": {
+      "url": "http://127.0.0.1:18082/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "confluence": {
+      "url": "http://127.0.0.1:18101/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:WORKBENCH_MCP_TOKEN}"
+      }
+    }
+  }
+}

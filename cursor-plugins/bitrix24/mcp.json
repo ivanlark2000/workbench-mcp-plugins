@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "bitrix24": {
+      "url": "http://127.0.0.1:18102/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:WORKBENCH_MCP_TOKEN}"
+      }
+    }
+  }
+}

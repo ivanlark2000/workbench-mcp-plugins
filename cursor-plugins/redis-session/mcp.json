@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "redis": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:/source/workbench-mcp/integrations/mcp-redis",
+        "redis-mcp-server",
+        "--url",
+        "redis://127.0.0.1:6379/0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gitlab-zereight",
+  "displayName": "GitLab",
+  "version": "1.0.0",
+  "description": "GitLab MR, pipelines and repository tools",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "gitlab"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/gitlab-zereight/logo.svg",
+  "mcpServers": "./mcp.json"
+}

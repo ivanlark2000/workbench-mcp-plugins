@@ -1,0 +1,16 @@
+{
+  "name": "bitrix24",
+  "displayName": "Bitrix24",
+  "version": "1.0.0",
+  "description": "Bitrix24 tasks and CRM tools",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "bitrix24"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/bitrix24/logo.svg",
+  "mcpServers": "./mcp.json"
+}

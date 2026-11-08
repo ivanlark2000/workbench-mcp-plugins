@@ -1,0 +1,16 @@
+{
+  "name": "playwright",
+  "displayName": "Playwright",
+  "version": "1.0.0",
+  "description": "Browser automation MCP",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "playwright"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/playwright/logo.svg",
+  "mcpServers": "./mcp.json"
+}

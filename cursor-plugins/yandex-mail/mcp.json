@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "yandex_mail": {
+      "url": "http://127.0.0.1:18104/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:WORKBENCH_MCP_TOKEN}"
+      }
+    }
+  }
+}

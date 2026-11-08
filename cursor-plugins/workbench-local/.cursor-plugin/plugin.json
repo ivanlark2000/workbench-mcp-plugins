@@ -1,0 +1,17 @@
+{
+  "name": "workbench-local",
+  "displayName": "Workbench Local",
+  "version": "1.0.0",
+  "description": "Local SQL and DigitXML worktree tools",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "sql",
+    "xml"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/workbench-local/logo.svg",
+  "mcpServers": "./mcp.json"
+}

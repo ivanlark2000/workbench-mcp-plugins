@@ -1,0 +1,16 @@
+{
+  "name": "tfs-ext",
+  "displayName": "TFS Ext",
+  "version": "1.0.0",
+  "description": "Azure DevOps / TFS work items and handoff",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "tfs"
+  ],
+  "logo": "https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/tfs-ext/logo.svg",
+  "mcpServers": "./mcp.json"
+}
