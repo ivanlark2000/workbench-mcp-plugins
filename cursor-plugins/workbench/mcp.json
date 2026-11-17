@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "workbench": {
+      "type": "stdio",
+      "command": "C:/source/workbench/bin/workbench.exe",
+      "args": [
+        "mcp",
+        "--repo-root",
+        "C:/source/workbench",
+        "--workbench-home",
+        "C:/source/workbench"
+      ],
+      "env": {
+        "WORKBENCH_LOCAL_ROOT": "C:/source/workbench-mcp/local",
+        "WORKBENCH_PYTHON": "C:/source/workbench-mcp/local/.venv/Scripts/python.exe",
+        "WORKBENCH_TOOLS_ROOT": "C:/source/DB/.codex-agent-rules/db/tools",
+        "WORKBENCH_XML_CONFIG": "D:/codex-artifacts/digitxml-mcp/config.json"
+      }
+    }
+  }
+}
