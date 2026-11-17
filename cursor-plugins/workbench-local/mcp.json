@@ -1,10 +1,4 @@
 {
-  "mcpServers": {
-    "workbench_local": {
-      "url": "http://127.0.0.1:18106/mcp",
-      "headers": {
-        "Authorization": "Bearer ${env:WORKBENCH_MCP_TOKEN}"
-      }
-    }
-  }
+  "mcpServers": {},
+  "_deprecated": "HTTP workbench_local retired; install marketplace plugin workbench"
 }
