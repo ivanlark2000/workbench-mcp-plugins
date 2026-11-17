@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Workbench MCP">
+  <rect width="128" height="128" rx="28" fill="#14532D"/>
+  <!-- geometric W -->
+  <path d="M28 38h16l8 34 12-28h8l12 28 8-34h16L86 90H70L58 60 46 90H30L28 38z" fill="#F5F5F4"/>
+  <!-- copper accent -->
+  <rect x="40" y="98" width="48" height="6" rx="3" fill="#B45309"/>
+</svg>
+
